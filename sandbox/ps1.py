@@ -20,7 +20,7 @@ for i in range(len(s2)-2):
 print num
 
 
-#p3
+#p3  
 lenw = 0
 star = 0
 star2 = 0
